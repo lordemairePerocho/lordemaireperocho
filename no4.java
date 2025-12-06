@@ -17,6 +17,6 @@ public class no4
              if (arr[i] > max) max = arr[i];
             }
             System.out.println("Smallest:  "+min);
-            System.out.println("Largest:  "+min);
+            System.out.println("Largest:  "+max);
        }
    }
